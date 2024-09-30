@@ -1,0 +1,8 @@
+# Ignore node modules for frontend and backend
+poker_calculator_frontend/node_modules/
+
+# Ignore build directories for both
+poker_calculator_frontend/build/
+
+# Miscellaneous
+.DS_Store
